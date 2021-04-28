@@ -1,6 +1,8 @@
 # spectra-classifier
 Machine learning classifier for filtering viable targets from spectral data as a preprocessing step in XFEL data acquisition.
 
+The following code is a work in progress.
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/remiBoudreau/spectra-classifier/blob/main/spectra_classifier.ipynb)
 
 Documentation in progress.
