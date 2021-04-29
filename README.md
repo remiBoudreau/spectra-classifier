@@ -1,5 +1,5 @@
 # spectra-classifier
-Machine learning classifier for filtering viable targets from spectral data as a preprocessing step in XFEL data acquisition.
+Machine learning classifier for filtering viable targets from spectral data from chip as a preprocessing step in XFEL data acquisition. Refer to [this paper](https://scripts.iucr.org/cgi-bin/paper?gm5046) to get an idea of the origin for this project.
 
 The following code is a work in progress.
 
